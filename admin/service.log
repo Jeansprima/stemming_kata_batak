@@ -1,0 +1,58 @@
+These Windows services are started:
+
+   Application Layer Gateway Service
+   AVG WatchDog
+   AVGIDSAgent
+   COM+ Event System
+   Computer Browser
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Distributed Link Tracking Client
+   DNS Client
+   Error Reporting Service
+   Event Log
+   Fast User Switching Compatibility
+   Gammu SMSD Service (TSEL)
+   Help and Support
+   HWDeviceService.exe
+   IPSEC Services
+   Java Quick Starter
+   Logical Disk Manager
+   Network Connections
+   Network Location Awareness (NLA)
+   Plug and Play
+   Print Spooler
+   Protected Storage
+   Remote Access Auto Connection Manager
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   Remote Registry
+   Secondary Logon
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   SSDP Discovery Service
+   System Event Notification
+   System Restore Service
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   TeamViewer 8
+   Telephony
+   Terminal Services
+   Themes
+   TightVNC Server
+   UC Browser Service
+   Universal Plug and Play Device Host
+   VIA Karaoke digital mixer Service
+   WebClient
+   Windows Audio
+   Windows Firewall/Internet Connection Sharing (ICS)
+   Windows Image Acquisition (WIA)
+   Windows Management Instrumentation
+   Windows Time
+   Wireless Zero Configuration
+   Workstation
+
+The command completed successfully.
+
